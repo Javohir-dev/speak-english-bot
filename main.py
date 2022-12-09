@@ -5,6 +5,8 @@ from oxfordLookup import getDefinitions
 from googletrans import Translator
 translator = Translator()
 
+API_TOKEN = "5882639467:AAGz5viLDYKr3JSJC7fR4B8RjVgZVQMTEuM"
+
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
